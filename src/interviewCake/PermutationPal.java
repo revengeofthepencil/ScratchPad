@@ -1,4 +1,4 @@
-package permutePalindrome;
+package interviewCake;
 
 import java.util.HashMap;
 import java.util.Map;
